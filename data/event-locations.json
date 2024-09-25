@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Radisson Blu, Mumbai",
+    "value": "Radisson Blu, Mumbai",
+    "geometry": {
+      "coordinates": [72.878727, 19.110177],
+      "type": "Point"
+    }
+  },
+  {
+    "name": "Radisson Blu, New Delhi",
+    "value": "Radisson Blu, New Delhi",
+    "geometry": {
+      "coordinates": [77.217389, 28.633812],
+      "type": "Point"
+    }
+  },
+  {
+    "name": "BPTP Capital City, Noida",
+    "value": "BPTP Capital City, Noida",
+    "geometry": {
+      "coordinates": [77.3241196, 28.5517012],
+      "type": "Point"
+    }
+  },
+    {
+      "name": "Hilton Raleigh, North Hills",
+      "value": "BPTP Capital City, Noida",
+      "geometry": {
+        "coordinates": [35.83050758078763, -78.61705090301125],
+        "type": "Point"
+      }
+    }
+]
