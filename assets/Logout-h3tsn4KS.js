@@ -1,1 +1,0 @@
-import{d as t,u as n}from"./index-SeMfUSkc.js";const s=t({__name:"Logout",setup(e){const{logout:o}=n();return o({logoutParams:{returnTo:window.location.origin+"/events"}}),(r,u)=>null}});export{s as default};
